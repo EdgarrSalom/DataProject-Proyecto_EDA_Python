@@ -6,8 +6,8 @@
 - 🔲 archivos transformados.  (data processed)
 - 🔲 /notebooks → todos los Jupyter Notebooks por fases.  
 - 🔲 README.md → explicación del proyecto, pasos y resultados.  
--  Revisar los datos
--  Limpiar los datos
+- 🔲 Revisar los datos
+- 🔲 Limpiar los datos
 - 🔲 Crear visualizaciones
 
 ---
