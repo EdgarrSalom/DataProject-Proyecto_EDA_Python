@@ -16,8 +16,8 @@
 - ✅ Importar librerías (pandas, numpy, matplotlib, seaborn).  
 - ✅ Cargar `bank-additional.csv` y `customer-details.xlsx`.  
 - ✅ Explorar dimensiones, columnas y tipos de datos.  
-- 🔲 Detectar valores nulos y duplicados.  
-- 🔲 Identificar posibles llaves de unión entre datasets (`id_` y `ID`).  
+- ✅ Detectar valores nulos y duplicados.  
+- ✅ Identificar posibles llaves de unión entre datasets (`id_` y `ID`).  
 
 ---
 
