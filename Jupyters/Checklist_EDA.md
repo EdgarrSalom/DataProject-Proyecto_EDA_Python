@@ -22,16 +22,22 @@
 ---
 
 ## 2️⃣ Notebook 02 – Limpieza y transformación de datos
-- 🔲 Corregir tipos de datos (fechas, categóricas, numéricas).  
+- ✅ Corregir tipos de datos (fechas, categóricas, numéricas).  
 - 🔲 Manejar valores nulos (eliminación o imputación).  
 - 🔲 Eliminar duplicados.  
-- 🔲 Normalizar categorías (ej. “yes/no”, “1/0”).  
-- 🔲 Crear nuevas columnas si es necesario (ej. año de cliente, ratio visitas/mes…).  
-- 🔲 Guardar un dataset limpio en `/data/processed/`.  
+- ✅ Normalizar categorías (ej. “yes/no”, “1/0”).  
+- ✅ Crear nuevas columnas si es necesario (contact_monyh y contact_year).  
+- 🔲 Guardar un dataset limpio en `/Data/DataProcessed/`.  
+
+---
+## Notebook 03 – Manejo de los datos nulos y faltantes
+- 🔲 Manejar valores nulos (eliminación o imputación).  
+- 🔲 Eliminar duplicados. 
+- 🔲 Guardar un dataset limpio en `/Data/DataProcessed/`.
 
 ---
 
-## 3️⃣ Notebook 03 – Análisis descriptivo
+## 3️⃣ Notebook 04 – Análisis descriptivo
 - 🔲 Estadísticas descriptivas (media, mediana, desviación estándar).  
 - 🔲 Distribución de variables numéricas (edad, ingresos, duración llamadas).  
 - 🔲 Análisis de variables categóricas (ocupación, estado civil, educación).  
@@ -39,7 +45,7 @@
 
 ---
 
-## 4️⃣ Notebook 04 – Visualización de datos
+## 4️⃣ Notebook 05 – Visualización de datos
 - 🔲 Histogramas y distribuciones.  
 - 🔲 Boxplots (ej. ingresos por estado civil, duración llamadas por edad).  
 - 🔲 Gráficos de barras (ocupación, nivel educativo, respuesta campaña).  
@@ -48,7 +54,7 @@
 
 ---
 
-## 5️⃣ Notebook 05 – Insights y conclusiones
+## 5️⃣ Notebook 06 – Insights y conclusiones
 - 🔲 Resumir hallazgos más importantes.  
 - 🔲 Identificar qué factores influyen en que un cliente acepte el producto.  
 - 🔲 Relación entre datos demográficos (Excel) y respuesta a campañas (CSV).  
@@ -56,7 +62,7 @@
 
 ---
 
-## 6️⃣ Notebook 06 – Informe final
+## 6️⃣ Notebook 07 – Informe final
 - 🔲 Redactar explicación clara de cada fase.  
 - 🔲 Justificar las decisiones de limpieza y transformación.  
 - 🔲 Incluir gráficos clave con interpretación.  
